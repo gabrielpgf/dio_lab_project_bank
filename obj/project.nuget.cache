@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9sl/J4kAhjqhpNg9Quru5wR0we+5WK2zs8KJtEg+MrN+/tqWeXdEYRWjjvgTLOXcqBdgiPyGkJcD6+eGiubMSw==",
+  "dgSpecHash": "adZl/hMnTwIthKH21C6nA9M1Zcy9Y+f3D+iWxYY04XduJJ7LHEmW1JFxcY82CIgggp/bm+l+DSwQMdZrKjM5XA==",
   "success": true,
-  "projectFilePath": "C:\\workspace\\ssh-test\\DIO.Bank\\DIO.Bank.csproj",
+  "projectFilePath": "C:\\MyProjectsGit\\DIO\\PrimeirosPassos.NET\\dio_lab_project_bank\\DIO.Bank.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
