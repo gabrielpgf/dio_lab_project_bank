@@ -1,0 +1,16 @@
+C:\workspace\ssh-test\DIO.Bank\bin\Debug\net5.0\DIO.Bank.exe
+C:\workspace\ssh-test\DIO.Bank\bin\Debug\net5.0\DIO.Bank.deps.json
+C:\workspace\ssh-test\DIO.Bank\bin\Debug\net5.0\DIO.Bank.runtimeconfig.json
+C:\workspace\ssh-test\DIO.Bank\bin\Debug\net5.0\DIO.Bank.runtimeconfig.dev.json
+C:\workspace\ssh-test\DIO.Bank\bin\Debug\net5.0\DIO.Bank.dll
+C:\workspace\ssh-test\DIO.Bank\bin\Debug\net5.0\ref\DIO.Bank.dll
+C:\workspace\ssh-test\DIO.Bank\bin\Debug\net5.0\DIO.Bank.pdb
+C:\workspace\ssh-test\DIO.Bank\obj\Debug\net5.0\DIO.Bank.csproj.AssemblyReference.cache
+C:\workspace\ssh-test\DIO.Bank\obj\Debug\net5.0\DIO.Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\ssh-test\DIO.Bank\obj\Debug\net5.0\DIO.Bank.AssemblyInfoInputs.cache
+C:\workspace\ssh-test\DIO.Bank\obj\Debug\net5.0\DIO.Bank.AssemblyInfo.cs
+C:\workspace\ssh-test\DIO.Bank\obj\Debug\net5.0\DIO.Bank.csproj.CoreCompileInputs.cache
+C:\workspace\ssh-test\DIO.Bank\obj\Debug\net5.0\DIO.Bank.dll
+C:\workspace\ssh-test\DIO.Bank\obj\Debug\net5.0\ref\DIO.Bank.dll
+C:\workspace\ssh-test\DIO.Bank\obj\Debug\net5.0\DIO.Bank.pdb
+C:\workspace\ssh-test\DIO.Bank\obj\Debug\net5.0\DIO.Bank.genruntimeconfig.cache
